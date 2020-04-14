@@ -1,0 +1,135 @@
+max_GDP_values_per_country: 45
+country_with_max_GDP_per_Country: Norway
+max_GDP_values_per_country: 21
+country_with_min_GDP_per_Country: Ethiopia
+Evaluating country Algeria 
+Evaluating country Angola 
+Evaluating country Argentina 
+Evaluating country Australia 
+Evaluating country Austria 
+Evaluating country Bahamas 
+Evaluating country Bangladesh 
+Evaluating country Belarus 
+Evaluating country Belgium 
+Evaluating country Bhutan 
+Evaluating country Brazil 
+Evaluating country Bulgaria 
+Evaluating country Cambodia 
+Evaluating country Cameroon 
+Evaluating country Chile 
+Evaluating country China 
+Evaluating country Colombia 
+Evaluating country Cyprus 
+Evaluating country Denmark 
+Evaluating country El Salvador 
+Evaluating country Estonia 
+Evaluating country Ethiopia 
+Evaluating country Fiji 
+Evaluating country Finland 
+Evaluating country France 
+Evaluating country Georgia 
+Evaluating country Ghana 
+Evaluating country Grenada 
+Evaluating country Guinea 
+Evaluating country Haiti 
+Evaluating country Honduras 
+Evaluating country Hungary 
+Evaluating country India 
+Evaluating country Indonesia 
+Evaluating country Ireland 
+Evaluating country Italy 
+Evaluating country Japan 
+Evaluating country Kenya 
+Evaluating country South Korea 
+Evaluating country Liberia 
+Evaluating country Malaysia 
+Evaluating country Mexico 
+Evaluating country Morocco 
+Evaluating country Nepal 
+Evaluating country New Zealand 
+Evaluating country Norway 
+Evaluating country Pakistan 
+Evaluating country Peru 
+Evaluating country Qatar 
+Evaluating country Russia 
+Evaluating country Singapore 
+Evaluating country South Africa 
+Evaluating country Spain 
+Evaluating country Sweden 
+Evaluating country Switzerland 
+Evaluating country Thailand 
+Evaluating country United Arab Emirates 
+Evaluating country United Kingdom 
+Evaluating country United States 
+Evaluating country Uruguay 
+Evaluating country Venezuela 
+Evaluating country Vietnam 
+Evaluating country Zimbabwe 
+country Algeria with GDP 2255.225482
+country Angola with GDP 629.9553062
+country Argentina with GDP 11601.63022
+country Australia with GDP 25306.82494
+country Austria with GDP 27266.40335
+country Bahamas with GDP 19466.99052
+country Bangladesh with GDP 588.3691778
+country Belarus with GDP 2890.345675
+country Belgium with GDP 24733.62696
+country Bhutan with GDP 1445.760002
+country Brazil with GDP 4803.398244
+country Bulgaria with GDP 2618.876037
+country Cambodia with GDP 590.4521124
+country Cameroon with GDP 665.7982328
+country Chile with GDP 7122.938458
+country China with GDP 2639.54156
+country Colombia with GDP 3362.4656
+country Cyprus with GDP 15378.16704
+country Denmark with GDP 30860.12808
+country El Salvador with GDP 2579.115607
+country Estonia with GDP 6525.541272
+country Ethiopia with GDP 229.6769525
+country Fiji with GDP 2242.689259
+country Finland with GDP 27570.4852
+country France with GDP 23016.84778
+country Georgia with GDP 1334.646773
+country Ghana with GDP 402.6953275
+country Grenada with GDP 6047.200797
+country Guinea with GDP 394.1156638
+country Haiti with GDP 385.5793827
+country Honduras with GDP 1414.072488
+country Hungary with GDP 5745.981529
+country India with GDP 837.7464011
+country Indonesia with GDP 1206.991065
+country Ireland with GDP 27715.52837
+country Italy with GDP 18937.24998
+country Japan with GDP 39578.07441
+country Kenya with GDP 478.2194906
+country South Korea with GDP 16684.21278
+country Liberia with GDP 279.2204061
+country Malaysia with GDP 5345.213415
+country Mexico with GDP 6288.25324
+country Morocco with GDP 1908.304416
+country Nepal with GDP 274.8728621
+country New Zealand with GDP 14646.42094
+country Norway with GDP 40034.85063
+country Pakistan with GDP 672.1547506
+country Peru with GDP 3359.517402
+country Qatar with GDP 36152.66676
+country Russia with GDP 3054.727742
+country Singapore with GDP 33529.83052
+country South Africa with GDP 3825.093781
+country Spain with GDP 15428.32098
+country Sweden with GDP 33630.24604
+country Switzerland with GDP 39170.41371
+country Thailand with GDP 2699.123242
+country United Arab Emirates with GDP 21058.43643
+country United Kingdom with GDP 28272.40661
+country United States with GDP 37691.02733
+country Uruguay with GDP 9581.05659
+country Venezuela with GDP 5671.912202
+country Vietnam with GDP 757.4009286
+country Zimbabwe with GDP 347.7456605
+40034.85063
+229.6769525
+11289.409271639683
+12743.828910617945
+711232.7841133
